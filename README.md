@@ -4,7 +4,7 @@
 I'm a software developer who loves coding and open source. Here are some of my programming stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
@@ -86,7 +86,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/macoswk/macoswk/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2024 18:35:49 UTC
+ Last Updated on 20/04/2024 18:35:52 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
