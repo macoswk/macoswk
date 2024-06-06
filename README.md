@@ -4,7 +4,7 @@
 I'm a software developer who loves coding and open source. Here are some of my programming stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,19 +45,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-conf                     1 hr 36 mins        █████████████████░░░░░░░░   66.49 % 
-Other                    48 mins             ████████░░░░░░░░░░░░░░░░░   33.51 % 
+Other                    1 hr 27 mins        █████████████████████████   99.76 % 
+conf                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-Nova                     1 hr 36 mins        █████████████████░░░░░░░░   66.49 % 
-Terminal                 46 mins             ████████░░░░░░░░░░░░░░░░░   31.98 % 
-Warp                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Terminal                 1 hr 26 mins        █████████████████████████   99.09 % 
+Warp                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Nova                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 25 mins       █████████████████████████   100.00 % 
+Unknown Project          1 hr 27 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -77,7 +77,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/macoswk/macoswk/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2024 18:38:28 UTC
+ Last Updated on 06/06/2024 18:38:26 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
