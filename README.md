@@ -6,7 +6,7 @@ I'm a software developer who loves coding and open source. Here are some of my p
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -74,7 +74,7 @@ Python                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/macoswk/macoswk/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2025 18:40:38 UTC
+ Last Updated on 26/09/2025 18:38:55 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
