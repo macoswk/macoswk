@@ -4,6 +4,8 @@
 I'm a software developer who loves coding and open source. Here are some of my programming stats:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2029%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -76,7 +78,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/macoswk/macoswk/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:22:45 UTC
+ Last Updated on 07/08/2026 19:28:01 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
